@@ -9,6 +9,8 @@ Item1 | string | Y |  Describes the customer's order
 Item2 | int  | Y | Second Order 
 orderNum | int  | N | Order Number 
 timestamp | string/int  | N | Time order was placed 
+type:burgerMeal | int  | Y |  Describes what the customer ordered
+"Cost":10.99 | string/int  | N | Contain the cost of the item ordered 
 
 ## Code Samples
 ```JSON
