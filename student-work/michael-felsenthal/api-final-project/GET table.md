@@ -6,7 +6,7 @@ The order given to the server. Includes the table and order number.
 Name | type | Req. | Description
 ---- | ----- | ----- | --------------------
 Item1 | string | Y |  Describes the customer's order
-Item2 | int  | Y | Second Order 
+Item2 | int  | Y | Second order item if ordered. 
 orderNum | int  | N | Order Number 
 timestamp | string/int  | N | Time order was placed 
 type | int  | Y |  Describes what the customer ordered
