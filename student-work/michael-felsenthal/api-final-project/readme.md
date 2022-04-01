@@ -49,6 +49,6 @@ This project was based on one originally designed by [Alex Fiedler](https://www.
 
 The diagram used in this API comes from [Mermaid](https://mermaid-js.github.io/mermaid/#/).
 
-The template from this project comes [the template](https://github.com/thegooddocsproject/templates/blob/master/api-reference/api-reference.md) from The Good Docs project. 
+The template from this project comes from [the Good Docs Project](https://github.com/thegooddocsproject/templates/blob/master/api-reference/api-reference.md). 
 
 
