@@ -3,7 +3,7 @@
 ![Picture1  LinkedIn](https://user-images.githubusercontent.com/98423511/153808560-74cb8485-b2ed-40b9-b7cc-f29b13fc866c.png)
 
 
-I am currently enroleld in a comprehensive technical and marketing communications course in Our Best Words (OBW).
+I recently completed a comprehensive technical and marketing communications course in Our Best Words (OBW).
 
 My goal is to pivot into a career in technical communications.
 
@@ -24,7 +24,7 @@ I am also skilled in MS Office Suite, G-Suite, Adobe Acrobat Reader, Canva, and 
 
 ## Experience
 
-##Yavneh Hebrew Academy:
+## Yavneh Hebrew Academy:
 Synagogue Administrator
 **Dates Employed**: July 2021 &ndash; Present
 
@@ -34,7 +34,7 @@ Responsibilities include:
 * Collaborate with lay leadership to prepare written content for distribution. 
 * Edit synagogue website weekly.   
 
-##Holding Hands, Inc:
+## Holding Hands, Inc:
 Developmental Therapist
 **Dates Employed**: November 2017 &ndash; Present
 
@@ -44,5 +44,5 @@ Responsibiliites include:
 * Write regular client progress reports to support continued care. 
 * Compose post-session notes to document clients’ progress on developmental goals. 
 
-#Portfolio
+# Portfolio
 * [LinkedIn](https://www.linkedin.com/in/michael-w-felsenthal/) 
