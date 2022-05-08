@@ -22,7 +22,7 @@ In Our Best Words, I have learned applications such as MadCap Flare, GitHub, and
 
 I am also skilled in Microsoft Office, Google Workspace, Adobe Acrobat Reader, Canva, and MailChimp. 
 
-## Experience
+# Experience
 
 ## Yavneh Hebrew Academy:
 Synagogue Administrator 
