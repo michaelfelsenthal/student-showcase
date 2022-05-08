@@ -5,7 +5,7 @@
 
 I recently completed a comprehensive technical and marketing communications course in Our Best Words (OBW).
 
-My goal is to pivot into a career in technical communications.
+My goal is to pivot into a career in technical or marketing communications.
 
 I am someone who is always committed to the task at hand, and will always meet deadlines.  I also go above and beyond to make sure that the job is done correctly.
 
@@ -18,15 +18,16 @@ I am someone who is always committed to the task at hand, and will always meet d
 # Summary
 I have previously worked with children and adults with developmental disabilities for 10+ years. I have also gained administrative experience working as a synagogue administrator.
 
-In Our Best Words, I have learned applications such as MadCap Flare, GitHub, and Markup Makeup.  I will also be learning API Documenation.  
+In Our Best Words, I have learned applications such as MadCap Flare, GitHub, and Markup Makeup, and API Documenation.  
 
-I am also skilled in MS Office Suite, G-Suite, Adobe Acrobat Reader, Canva, and MailChimp. 
+I am also skilled in Microsoft Office, Google Workspace, Adobe Acrobat Reader, Canva, and MailChimp. 
 
 ## Experience
 
 ## Yavneh Hebrew Academy:
-Synagogue Administrator
-**Dates Employed**: July 2021 &ndash; Present
+Synagogue Administrator 
+
+July 2021 &ndash; Present
 
 Responsibilities include: 
 * Author and edit content for weekly bulletin.   
@@ -35,8 +36,10 @@ Responsibilities include:
 * Edit synagogue website weekly.   
 
 ## Holding Hands, Inc:
-Developmental Therapist
-**Dates Employed**: November 2017 &ndash; Present
+
+Developmental Therapist 
+
+November 2017 &ndash; Present
 
 Responsibiliites include: 
 * Provide therapy for boys diagnosed with Autism Spectrum Disorder. 
